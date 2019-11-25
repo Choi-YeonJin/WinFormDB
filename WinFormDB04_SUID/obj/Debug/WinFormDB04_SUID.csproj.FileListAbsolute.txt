@@ -1,0 +1,15 @@
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\WinFormDB04_SUID.exe.config
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\WinFormDB04_SUID.exe
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\WinFormDB04_SUID.pdb
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.csprojAssemblyReference.cache
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.Properties.Resources.resources
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.csproj.GenerateResource.cache
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.exe
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.pdb
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.Form1.resources
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\MySql.Data.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\Google.Protobuf.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\Renci.SshNet.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\bin\Debug\MySql.Data.xml
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB04_SUID\obj\Debug\WinFormDB04_SUID.csproj.CopyComplete

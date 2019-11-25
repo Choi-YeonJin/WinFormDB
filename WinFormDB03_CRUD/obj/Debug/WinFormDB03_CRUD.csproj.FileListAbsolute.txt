@@ -1,0 +1,15 @@
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\WinFormDB03_CRUD.exe.config
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\WinFormDB03_CRUD.exe
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\WinFormDB03_CRUD.pdb
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\MySql.Data.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\Renci.SshNet.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\bin\Debug\MySql.Data.xml
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.csprojAssemblyReference.cache
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.Form1.resources
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.Properties.Resources.resources
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.csproj.GenerateResource.cache
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.csproj.CopyComplete
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.exe
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB03_CRUD\obj\Debug\WinFormDB03_CRUD.pdb

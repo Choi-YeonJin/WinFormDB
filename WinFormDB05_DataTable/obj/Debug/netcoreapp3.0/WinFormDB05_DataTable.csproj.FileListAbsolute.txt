@@ -1,0 +1,11 @@
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\bin\Debug\netcoreapp3.0\WinFormDB05_DataTable.exe
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\bin\Debug\netcoreapp3.0\WinFormDB05_DataTable.deps.json
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\bin\Debug\netcoreapp3.0\WinFormDB05_DataTable.runtimeconfig.json
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\bin\Debug\netcoreapp3.0\WinFormDB05_DataTable.runtimeconfig.dev.json
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\bin\Debug\netcoreapp3.0\WinFormDB05_DataTable.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\bin\Debug\netcoreapp3.0\WinFormDB05_DataTable.pdb
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\obj\Debug\netcoreapp3.0\WinFormDB05_DataTable.csprojAssemblyReference.cache
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\obj\Debug\netcoreapp3.0\WinFormDB05_DataTable.AssemblyInfoInputs.cache
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\obj\Debug\netcoreapp3.0\WinFormDB05_DataTable.AssemblyInfo.cs
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\obj\Debug\netcoreapp3.0\WinFormDB05_DataTable.dll
+C:\Users\C_yeonjin\Desktop\C_yj\2학년\C#\WinFormDB\WinFormDB05_DataTable\obj\Debug\netcoreapp3.0\WinFormDB05_DataTable.pdb
