@@ -686,7 +686,7 @@ namespace WinFormDBProjectEX
 
 
         #endregion
-
+        
         #region ClearBtn
         private void btnClear_Click(object sender, EventArgs e)
         {
