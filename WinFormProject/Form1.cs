@@ -705,7 +705,6 @@ namespace WinFormDBProjectEX
             textBox13.Value = DateTimePicker.MinimumDateTime;
             textBox14.Value = DateTimePicker.MaximumDateTime;
             textBox15.Clear();
-            int a = 5;
         }
 
         #endregion
